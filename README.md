@@ -138,7 +138,7 @@ jupyter notebook Project1_Data_Analysis.ipynb
 
 <div align="center">
 
-**Mumtaz Ali**
+**Waqar Ahmad**
 *Data Analysis Intern @ Rhombix Technologies*
 
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github)](https://github.com/YOUR_USERNAME)
